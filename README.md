@@ -23,7 +23,7 @@ I also have experience using Git, Spring Boot, and Angular, which helps me colla
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ## 📊 GitHub Stats:
-![Giyas Uddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=radical)  
+![dipu363's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=radical)  
 
 ## ☕ Support:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourlink)
