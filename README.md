@@ -8,23 +8,23 @@ I also have experience using Git, Spring Boot, and Angular, CI/CD Pipe line whic
 
 - 🔭 I’m currently working on **[Medical System Company Ltd.(Medisys)]**  
 - 🌱 I’m currently working with **Native Android, Flutter, Java, Spring Boot, Security,Angular,CI/CD Pipe line**  
-- 📝 I regularly write articles on [[Your Blog link](https://www.hackerrank.com/profile/giyasuddin636)]  
+- 📝 I regularly write articles on [(https://www.hackerrank.com/profile/giyasuddin636)]  
 - 💬 Ask me about **Java, Dart, Spring Boot, Angular, Android,Android JET pack, Flutter, SQL,Git,Firebase,CI/CD Pipe line,**  
 - 📫 How to reach me: **giyasuddin636@gmail.com**
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/giyas-uddin/])
-[![X]][https://x.com/giyasdipu]
+[![X](https://img.shields.io/badge/-X-blue?logo=X&logoColor=white)][https://x.com/giyasdipu]
 
 ## 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/-Dart-6DB43F?logo=javascript&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-6DB43F?logo=dart&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![dipu363 GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipu363&show_icons=true&theme=radical)  
 
 ## ☕ Support:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourlink)
