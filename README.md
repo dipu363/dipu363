@@ -13,8 +13,8 @@ I also have experience using Git, Spring Boot, and Angular, CI/CD Pipe line whic
 - 📫 How to reach me: **giyasuddin636@gmail.com**
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/giyas-uddin/])  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)][([https://x.com/giyasdipu]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)][https://linkedin.com/in/giyas-uddin/]  
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=X&logoColor=white)][https://x.com/giyasdipu]
 
 ## 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)  
