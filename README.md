@@ -26,7 +26,7 @@ I also have experience using Git, Spring Boot, and Angular, CI/CD Pipe line whic
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipu363&show_icons=true&theme=radical)  
 ## 📊 Languase use :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dipu363=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ☕ Support:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourlink)
