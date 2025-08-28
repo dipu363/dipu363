@@ -2,9 +2,9 @@
 
 "As mobile application developer with over 5 years of hands-on experience in the software industry. I started my journey with Java and Android native development, and for the last few years, I’ve focused on Flutter for cross-platform app development.
 
-Currently, I’m working at Medical System Co. Ltd. in Dhaka, where I’ve developed apps from UI design to API integration, using Flutter, Firebase, and REST APIs. One of my notable apps is published on the Google Play Store, and I’ve worked on features like GPS location tracking, Google Maps, and secure login with session handling.
+Currently, I’m working at Medical System Co. Ltd. in Dhaka, where I’ve developed apps from UI design to API integration, using Flutter, Firebase, and REST APIs. One of my notable apps is published on the Google Play Store, and I’ve worked on features like GPS location tracking, Google Maps, Payment Getway integration, Audio-Video fetures,Printer,Scanner,Bar-Code, QR-Code fetures , and secure login with session handling.
 
-I also have experience using Git, Spring Boot, and Angular, which helps me collaborate smoothly with full-stack teams. I'm now looking to join a company where I can grow as a mid-level Flutter developer and contribute to meaningful mobile solutions."
+I also have experience using Git, Spring Boot, and Angular, CI/CD Pipe line which helps me collaborate smoothly with full-stack teams. I'm now looking to join a company where I can grow as a mid-level Flutter developer and contribute to meaningful mobile solutions."
 
 - 🔭 I’m currently working on **[Medical System Company Ltd.(Medisys)]**  
 - 🌱 I’m currently working with **Native Android, Flutter, Java, Spring Boot, Security,Angular,CI/CD Pipe line**  
@@ -13,8 +13,8 @@ I also have experience using Git, Spring Boot, and Angular, which helps me colla
 - 📫 How to reach me: **giyasuddin636@gmail.com**
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/giyas-uddin/])  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)][([https://x.com/giyasdipu]
 
 ## 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)  
